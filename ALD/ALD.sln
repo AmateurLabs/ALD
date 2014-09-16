@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALD", "ALD.csproj", "{026AE892-C6D7-4AA7-A49E-6CF524C720FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALM", "..\ALM\ALM.csproj", "{37D5FAE6-798B-435C-92D0-6E2B42634B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026AE892-C6D7-4AA7-A49E-6CF524C720FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026AE892-C6D7-4AA7-A49E-6CF524C720FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026AE892-C6D7-4AA7-A49E-6CF524C720FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026AE892-C6D7-4AA7-A49E-6CF524C720FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D5FAE6-798B-435C-92D0-6E2B42634B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D5FAE6-798B-435C-92D0-6E2B42634B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D5FAE6-798B-435C-92D0-6E2B42634B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D5FAE6-798B-435C-92D0-6E2B42634B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
